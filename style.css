@@ -1,0 +1,21 @@
+
+.body{
+    font: arial;
+}
+.img-formal{
+    width: 150px;
+    border-radius:50%;
+}
+.header{
+    position: relative;
+    top:-155px;
+    left: 170px;
+}
+.educ{
+    position:relative;
+    margin-top: -130px;
+}
+.bigText {
+    width: 250px;
+    height:200px;
+}
